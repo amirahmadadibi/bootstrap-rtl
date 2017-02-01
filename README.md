@@ -1,7 +1,7 @@
 bootstrap-rtl
 =============
 
-Bootstrap RTL 4.0.0 Alpha 4 - Review 1
+Bootstrap RTL 4.0.0 Alpha 5 - Review 1
 
 Please report bugs that solve on the next version
 
